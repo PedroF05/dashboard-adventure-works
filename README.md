@@ -26,21 +26,21 @@ O painel foi dividido em 5 páginas principais:
 
 * `prints/` → Capturas de tela das páginas do painel
 
-###📎 Prints do Dashboard
+### 📎 Prints do Dashboard
 
-###🔹 Home
+### 🔹 Home
 !\[Home] (Home.png)
 
-###🔹 Vendas
+### 🔹 Vendas
 !\[Venda] (Vendas.png)
 
-###🔹 Clientes
+### 🔹 Clientes
 !\[Clientes] (Clientes.png)
 
-###🔹 Recursos Humanos
+### 🔹 Recursos Humanos
 !\[Recursos Humanos] (Recursos Humanos.png)
 
-###🔹 Fornecedores
+### 🔹 Fornecedores
 !\[Fornecedores] (Fornecedores.png)
 
 -------------------------------------------------------------
