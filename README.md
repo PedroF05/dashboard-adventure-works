@@ -16,7 +16,7 @@ O painel foi dividido em 5 páginas principais:
 
 * SQL Server → Criação de views para consolidar os dados do Adventure Works
 
-* Microsoft Power BI Desktop → Construção do painel interativo e medidas em DAX
+* Microsoft Power BI → Construção do painel interativo e medidas em DAX
 
 ## 📂 Estrutura do Repositório
 
